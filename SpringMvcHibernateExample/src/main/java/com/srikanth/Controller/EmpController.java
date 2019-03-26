@@ -23,8 +23,8 @@ public class EmpController {
 		
 		Employee emp = new Employee();
 		
-		emp.seteName("Vinayak");
-		emp.setRole("JavaDev");
+		emp.seteName("Srikanth");
+		emp.setRole("JavaDeveloper");
 		
 		Session session = sessionFactory.openSession();
 		
